@@ -212,7 +212,7 @@ docker rm mysql-series
 ## ▶️ Como Rodar o Projeto
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/series-api.git
+git clone https://github.com/Pereira19z/series-api.git
 cd series-api
 ```
 
